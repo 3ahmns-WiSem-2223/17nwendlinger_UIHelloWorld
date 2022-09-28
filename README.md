@@ -1,6 +1,6 @@
 ## 17nwendlinger_UIHelloWorld
 
-# Das zweite Projekt im Fach MTIN.
+Das zweite Projekt im Fach MTIN.
 
 Die Aufgabe war es, zwei Szenen anzulegen:
 + Bei der ersten Szene musste man einen Text mit "Hello World!" erstellen und darunter "Mein Name ist ...." schreiben. Danach einen Button machen der die Szene wechselt.
